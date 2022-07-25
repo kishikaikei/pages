@@ -5,6 +5,23 @@
 ・経営の土台となる考え方を知りたい
 ・業界知識を知りたい
 
+これらのお悩みを解決するために私たちは寄り添い、適格なアドバイスを行います！
+まずはお気軽にお問合せください。初回面談無料、2回目以降5,000円/時間となります。
+
+```markdown
+Syntax highlighted code block
+
+問合せ先：bs-21@bloom.ocn.ne.jp
+電話番号：028-652-3981
+対応時間帯：平日8:30-17:30（12:00-13:30除く）
+担当者：岸　ゆう子
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+また、随時開催しているセミナーなどについてご案内させていただきます。
 
 ### 商人塾
 
@@ -23,20 +40,4 @@
 
 弊社では地域経済の活性化と食文化の保存を目的に餃子の販売も行っています。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
