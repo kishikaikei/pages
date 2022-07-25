@@ -1,12 +1,27 @@
 ## HK コンサルティング
 
-You can use the [editor on GitHub](https://github.com/kishikaikei/pages/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+こんなお悩みはございませんか？
+・会社経営がうまくいかず、どこに手を打てば利益が出るのかわからない
+・経営の土台となる考え方を知りたい
+・業界知識を知りたい
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 商人塾
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+易経・ユダヤ商人・近江商人から学ぶ経営哲学講座
+全6回シリーズで開催しております。1講座からも受講可能です（パック割引10%）。
+
+詳しくは[こちら](bs-21@bloom.ocn.ne.jp)にお問い合わせくださいませ。
+
+### 社会福祉法人の安定経営セミナー
+
+独立行政法人福祉医療機構の調査によると、全国の社会福祉法人のうち、4社に1社は赤字となっています。この厳しい状況を乗り越えるためには経営感覚が必要です。
+財務会計と内部統制の整備に強い公認会計士が、数字とソフト面との両面から安定経営をお手伝いさせていただきます！
+
+
+### 宇都宮餃子販売事業
+
+弊社では地域経済の活性化と食文化の保存を目的に餃子の販売も行っています。
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +40,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kishikaikei/pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
