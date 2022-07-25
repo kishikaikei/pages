@@ -61,6 +61,7 @@
 
 # 岸　大路
 
+<img width="220" alt="image" src="https://user-images.githubusercontent.com/109928811/180894129-4a991c0d-500b-4ab1-9b29-1a804fa99db1.png">
 
 
 経歴：埼玉県出身。
@@ -74,6 +75,9 @@
 在籍していたBIG4監査法人の業務受託も現在受嘱している。
 
 趣味はミニブタカフェ巡り
+
+<img width="118" alt="image" src="https://user-images.githubusercontent.com/109928811/180894215-1f184b29-0ac5-4a2d-9135-5f9d9fc696f5.png">
+
 
 ```
 
